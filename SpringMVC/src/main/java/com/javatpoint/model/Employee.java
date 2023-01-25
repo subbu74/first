@@ -6,6 +6,7 @@ public class Employee {
 	private String lastName;
 	private String middleName;
 	private Float salary;
+        private String address;
 	public int getId() {
 		return id;
 	}
